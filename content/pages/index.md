@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: jee-ph
+title: Learning HUB
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
